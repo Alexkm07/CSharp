@@ -1,0 +1,14 @@
+C:\Users\alexkm\source\repos\homework\homework11\bin\Debug\homework11.exe.config
+C:\Users\alexkm\source\repos\homework\homework11\bin\Debug\homework11.exe
+C:\Users\alexkm\source\repos\homework\homework11\bin\Debug\homework11.pdb
+C:\Users\alexkm\source\repos\homework\homework11\obj\Debug\homework11.csprojAssemblyReference.cache
+C:\Users\alexkm\source\repos\homework\homework11\obj\Debug\homework11.csproj.CoreCompileInputs.cache
+C:\Users\alexkm\source\repos\homework\homework11\obj\Debug\homework11.exe
+C:\Users\alexkm\source\repos\homework\homework11\obj\Debug\homework11.pdb
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\bin\Debug\homework11.exe.config
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\bin\Debug\homework11.exe
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\bin\Debug\homework11.pdb
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\obj\Debug\homework11.csprojAssemblyReference.cache
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\obj\Debug\homework11.csproj.CoreCompileInputs.cache
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\obj\Debug\homework11.exe
+C:\Users\alexkm\source\repos\homework\CSharp.git\Lesson1\obj\Debug\homework11.pdb
