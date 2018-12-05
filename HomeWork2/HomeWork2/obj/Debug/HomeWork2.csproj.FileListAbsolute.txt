@@ -1,0 +1,7 @@
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe.config
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.exe
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\bin\Debug\HomeWork2.pdb
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csprojAssemblyReference.cache
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.csproj.CoreCompileInputs.cache
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.exe
+C:\Users\alexkm\source\repos\homework\CSharp.git\HomeWork2\HomeWork2\obj\Debug\HomeWork2.pdb
